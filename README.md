@@ -1,4 +1,4 @@
-# MYSQL-ZOO Exercises
+# SQL-ZOO Exercises
 
 SQL answers to exercises from [SQLZoo](https://sqlzoo.net)
 
